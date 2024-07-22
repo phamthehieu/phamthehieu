@@ -20,3 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=phamthehieu&icon=3&color=11)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=phamthehieu&label=Profile%20Views&pretty=false" />
+</a>
